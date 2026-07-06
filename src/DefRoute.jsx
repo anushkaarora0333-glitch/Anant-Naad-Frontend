@@ -4,7 +4,6 @@ import Riyaz from "./Riyaz";
 import Find from "./Find";
 import Roots from "./Roots";
 import LearnMore from "./LearnMore";
-import { Component } from "react";
 import Navbar from "./Navbar"
 
 import{Route,BrowserRouter as Router,Routes}from 'react-router-dom';
